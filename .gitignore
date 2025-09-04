@@ -1,4 +1,6 @@
 myenv
+.DS_Store
+
 data/train.pq
 data/test.pq
 data/books.pq
