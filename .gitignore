@@ -4,3 +4,7 @@ myenv
 data/train.pq
 data/test.pq
 data/books.pq
+
+materials/models/catboost/catboost_data.pkl
+materials/models/lightgbm/lightgbm_data.pkl
+materials/models/
