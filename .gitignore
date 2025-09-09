@@ -8,3 +8,5 @@ data/books.pq
 materials/models/catboost/catboost_data.pkl
 materials/models/lightgbm/lightgbm_data.pkl
 materials/models/
+materials/knn_model.pkl
+materials/popular_model.pkl
