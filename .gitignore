@@ -10,3 +10,7 @@ materials/models/lightgbm/lightgbm_data.pkl
 materials/models/
 materials/knn_model.pkl
 materials/popular_model.pkl
+
+materials/solutions/lightsol/knn_model.pkl
+materials/solutions/lightsol/lfm_model.pkl
+materials/solutions/lightsol/popular_model.pkl
